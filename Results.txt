@@ -1,0 +1,556 @@
+ 
+ 
+ {'coords': (567, 246, 47, 24), 'text': '(NT', 'confidence': 81}
+                 
+ 
+ {'coords': (0, 702, 1800, 418), 'text': '    ', 'confidence': 95}
+                 
+ 
+ {'coords': (1386, 400, 91, 34), 'text': "Holder's", 'confidence': 20}
+                 
+ 
+ {'coords': (1078, 100, 113, 25), 'text': 'STATE', 'confidence': 95}
+                 
+ 
+ {'coords': (1470, 990, 43, 59), 'text': '|', 'confidence': 62}
+                 
+ 
+ {'coords': (260, 446, 115, 23), 'text': 'Daughier', 'confidence': 67}
+                 
+ 
+ {'coords': (112, 1002, 5, 56), 'text': '|', 'confidence': 65}
+                 
+ 
+ {'coords': (474, 294, 121, 20), 'text': '06-04-2031', 'confidence': 93}
+                 
+ 
+ {'coords': (295, 350, 6, 17), 'text': ':', 'confidence': 53}
+                 
+ 
+ {'coords': (203, 544, 73, 24), 'text': 'EAST', 'confidence': 79}
+                 
+ 
+ {'coords': (245, 446, 7, 17), 'text': '/', 'confidence': 78}
+                 
+ 
+ {'coords': (198, 346, 65, 18), 'text': 'Name', 'confidence': 92}
+                 
+ 
+ {'coords': (738, 249, 78, 24), 'text': 'Validity', 'confidence': 96}
+                 
+ 
+ {'coords': (66, 1075, 9, 20), 'text': '4', 'confidence': 91}
+                 
+ 
+ {'coords': (937, 40, 153, 26), 'text': 'LICENCE', 'confidence': 96}
+                 
+ 
+ {'coords': (307, 348, 70, 19), 'text': 'ALOK', 'confidence': 88}
+                 
+ 
+ {'coords': (317, 206, 67, 20), 'text': 'WBOS', 'confidence': 86}
+                 
+ 
+ {'coords': (1017, 399, 83, 18), 'text': 'Donor:', 'confidence': 91}
+                 
+ 
+ {'coords': (403, 1016, 22, 21), 'text': 'of', 'confidence': 90}
+                 
+ 
+ {'coords': (711, 546, 40, 20), 'text': 'PS-', 'confidence': 90}
+                 
+ 
+ {'coords': (463, 446, 93, 20), 'text': ':ASOKE', 'confidence': 44}
+                 
+ 
+ {'coords': (302, 494, 5, 16), 'text': ':', 'confidence': 41}
+                 
+ 
+ {'coords': (759, 547, 84, 19), 'text': 'GARFA', 'confidence': 89}
+                 
+ 
+ {'coords': (847, 766, 64, 24), 'text': 'Regn.', 'confidence': 96}
+                 
+ 
+ {'coords': (342, 1017, 54, 20), 'text': 'ete', 'confidence': 33}
+                 
+ 
+ {'coords': (256, 396, 26, 19), 'text': 'Of', 'confidence': 88}
+                 
+ 
+ {'coords': (302, 662, 78, 107), 'text': '2', 'confidence': 17}
+                 
+ 
+ {'coords': (188, 540, 10, 37), 'text': '5S', 'confidence': 75}
+                 
+ 
+ {'coords': (606, 398, 67, 23), 'text': 'Group', 'confidence': 92}
+                 
+ 
+ {'coords': (610, 96, 129, 27), 'text': 'ISSUED', 'confidence': 96}
+                 
+ 
+ {'coords': (244, 204, 36, 19), 'text': 'No.', 'confidence': 59}
+                 
+ 
+ {'coords': (629, 766, 70, 21), 'text': 'Invalid', 'confidence': 86}
+                 
+ 
+ {'coords': (181, 546, 64, 49), 'text': '   ', 'confidence': 95}
+                 
+ 
+ {'coords': (189, 578, 80, 17), 'text': 'Kolneta', 'confidence': 38}
+                 
+ 
+ {'coords': (370, 661, 79, 108), 'text': 'ae', 'confidence': 0}
+                 
+ 
+ {'coords': (196, 397, 51, 18), 'text': 'Date', 'confidence': 59}
+                 
+ 
+ {'coords': (922, 99, 144, 26), 'text': 'BENGAL', 'confidence': 95}
+                 
+ 
+ {'coords': (606, 398, 67, 24), 'text': 'Group', 'confidence': 92}
+                 
+ 
+ {'coords': (393, 348, 49, 20), 'text': 'DAS', 'confidence': 96}
+                 
+ 
+ {'coords': (205, 204, 30, 18), 'text': 'BL', 'confidence': 39}
+                 
+ 
+ {'coords': (1017, 398, 83, 20), 'text': 'Donor:', 'confidence': 86}
+                 
+ 
+ {'coords': (670, 716, 80, 23), 'text': 'Vatidity', 'confidence': 91}
+                 
+ 
+ {'coords': (544, 1003, 3, 55), 'text': '|', 'confidence': 66}
+                 
+ 
+ {'coords': (1717, 486, 9, 20), 'text': 'Of', 'confidence': 95}
+                 
+ 
+ {'coords': (1374, 369, 82, 29), 'text': 'Qe', 'confidence': 54}
+                 
+ 
+ {'coords': (956, 1012, 71, 25), 'text': 'Badge', 'confidence': 96}
+                 
+ 
+ {'coords': (1037, 1011, 89, 21), 'text': 'Number', 'confidence': 96}
+                 
+ 
+ {'coords': (1327, 1010, 58, 20), 'text': 'Issue', 'confidence': 95}
+                 
+ 
+ {'coords': (537, 398, 60, 20), 'text': 'Blood', 'confidence': 96}
+                 
+ 
+ {'coords': (189, 958, 123, 30), 'text': 'Vehicle', 'confidence': 0}
+                 
+ 
+ {'coords': (353, 395, 133, 21), 'text': ':05-02-1981', 'confidence': 0}
+                 
+ 
+ {'coords': (796, 1010, 59, 33), 'text': 'Catg.', 'confidence': 83}
+                 
+ 
+ {'coords': (643, 251, 3, 16), 'text': ':', 'confidence': 90}
+                 
+ 
+ {'coords': (692, 400, 4, 18), 'text': ':', 'confidence': 89}
+                 
+ 
+ {'coords': (708, 766, 107, 25), 'text': 'Carriages', 'confidence': 93}
+                 
+ 
+ {'coords': (692, 401, 4, 16), 'text': ':', 'confidence': 44}
+                 
+ 
+ {'coords': (463, 446, 93, 20), 'text': '!ASOKE', 'confidence': 18}
+                 
+ 
+ {'coords': (573, 446, 48, 18), 'text': 'DAS', 'confidence': 96}
+                 
+ 
+ {'coords': (622, 546, 80, 20), 'text': 'HALTU', 'confidence': 92}
+                 
+ 
+ {'coords': (572, 446, 48, 19), 'text': 'DAS', 'confidence': 96}
+                 
+ 
+ {'coords': (1642, 1006, 24, 23), 'text': 'by', 'confidence': 96}
+                 
+ 
+ {'coords': (652, 37, 110, 27), 'text': 'UNION', 'confidence': 95}
+                 
+ 
+ {'coords': (459, 207, 94, 20), 'text': '0005936', 'confidence': 95}
+                 
+ 
+ {'coords': (183, 576, 87, 22), 'text': 'Kolkata', 'confidence': 0}
+                 
+ 
+ {'coords': (628, 766, 72, 22), 'text': 'Invalid', 'confidence': 94}
+                 
+ 
+ {'coords': (845, 757, 64, 54), 'text': 'Regn.', 'confidence': 94}
+                 
+ 
+ {'coords': (443, 546, 48, 19), 'text': '2ND', 'confidence': 86}
+                 
+ 
+ {'coords': (1719, 524, 13, 39), 'text': 'Date', 'confidence': 96}
+                 
+ 
+ {'coords': (536, 397, 61, 21), 'text': 'Blood', 'confidence': 62}
+                 
+ 
+ {'coords': (255, 445, 120, 29), 'text': 'Daughter', 'confidence': 93}
+                 
+ 
+ {'coords': (171, 1076, 52, 20), 'text': 'uy', 'confidence': 7}
+                 
+ 
+ {'coords': (1394, 1009, 50, 19), 'text': 'Date', 'confidence': 95}
+                 
+ 
+ {'coords': (706, 766, 110, 26), 'text': 'Carriages', 'confidence': 96}
+                 
+ 
+ {'coords': (738, 249, 78, 24), 'text': 'Validity', 'confidence': 94}
+                 
+ 
+ {'coords': (244, 446, 8, 18), 'text': '/', 'confidence': 93}
+                 
+ 
+ {'coords': (757, 665, 77, 25), 'text': 'validity', 'confidence': 95}
+                 
+ 
+ {'coords': (475, 294, 120, 19), 'text': '06-04-2031', 'confidence': 89}
+                 
+ 
+ {'coords': (359, 442, 17, 31), 'text': '/', 'confidence': 67}
+                 
+ 
+ {'coords': (301, 204, 6, 18), 'text': '>', 'confidence': 19}
+                 
+ 
+ {'coords': (1140, 398, 29, 18), 'text': 'No', 'confidence': 91}
+                 
+ 
+ {'coords': (460, 208, 93, 19), 'text': '0005936', 'confidence': 89}
+                 
+ 
+ {'coords': (1139, 398, 31, 18), 'text': 'No', 'confidence': 91}
+                 
+ 
+ {'coords': (652, 37, 110, 27), 'text': 'UNION', 'confidence': 96}
+                 
+ 
+ {'coords': (805, 99, 104, 27), 'text': 'WEST', 'confidence': 95}
+                 
+ 
+ {'coords': (1076, 377, 4, 4), 'text': 'r', 'confidence': 0}
+                 
+ 
+ {'coords': (204, 202, 32, 21), 'text': 'OL', 'confidence': 59}
+                 
+ 
+ {'coords': (362, 396, 124, 20), 'text': '05-02-1981', 'confidence': 90}
+                 
+ 
+ {'coords': (245, 546, 30, 19), 'text': 'ST', 'confidence': 92}
+                 
+ 
+ {'coords': (473, 242, 88, 33), 'text': 'Validity', 'confidence': 90}
+                 
+ 
+ {'coords': (288, 396, 50, 19), 'text': 'Birth', 'confidence': 91}
+                 
+ 
+ {'coords': (500, 546, 62, 20), 'text': 'LANE', 'confidence': 89}
+                 
+ 
+ {'coords': (433, 1017, 56, 20), 'text': 'lasue', 'confidence': 76}
+                 
+ 
+ {'coords': (543, 1064, 3, 48), 'text': '|', 'confidence': 55}
+                 
+ 
+ {'coords': (825, 766, 6, 25), 'text': '(', 'confidence': 92}
+                 
+ 
+ {'coords': (319, 206, 65, 19), 'text': '\\WBOS', 'confidence': 69}
+                 
+ 
+ {'coords': (520, 35, 118, 27), 'text': 'INDIAN', 'confidence': 96}
+                 
+ 
+ {'coords': (190, 495, 92, 17), 'text': 'Address', 'confidence': 61}
+                 
+ 
+ {'coords': (711, 547, 40, 19), 'text': 'PS-', 'confidence': 89}
+                 
+ 
+ {'coords': (595, 1016, 71, 21), 'text': 'tssued', 'confidence': 81}
+                 
+ 
+ {'coords': (295, 351, 6, 16), 'text': '7', 'confidence': 62}
+                 
+ 
+ {'coords': (291, 1063, 4, 46), 'text': '|', 'confidence': 39}
+                 
+ 
+ {'coords': (571, 546, 42, 19), 'text': 'PO-', 'confidence': 88}
+                 
+ 
+ {'coords': (279, 577, 27, 22), 'text': '(M', 'confidence': 88}
+                 
+ 
+ {'coords': (922, 99, 144, 26), 'text': 'BENGAL', 'confidence': 96}
+                 
+ 
+ {'coords': (283, 395, 55, 21), 'text': 'Birth', 'confidence': 92}
+                 
+ 
+ {'coords': (301, 494, 7, 17), 'text': '<', 'confidence': 20}
+                 
+ 
+ {'coords': (907, 253, 4, 17), 'text': ':', 'confidence': 85}
+                 
+ 
+ {'coords': (630, 666, 119, 19), 'text': 'Hazardous', 'confidence': 96}
+                 
+ 
+ {'coords': (1078, 99, 113, 26), 'text': 'STATE', 'confidence': 96}
+                 
+ 
+ {'coords': (345, 249, 6, 17), 'text': '=', 'confidence': 71}
+                 
+ 
+ {'coords': (670, 715, 80, 25), 'text': 'Validity', 'confidence': 96}
+                 
+ 
+ {'coords': (189, 493, 95, 23), 'text': 'Aggress', 'confidence': 63}
+                 
+ 
+ {'coords': (942, 400, 66, 22), 'text': 'Organ', 'confidence': 94}
+                 
+ 
+ {'coords': (160, 1017, 55, 20), 'text': 'cov', 'confidence': 38}
+                 
+ 
+ {'coords': (831, 249, 61, 23), 'text': '(TR)', 'confidence': 90}
+                 
+ 
+ {'coords': (460, 726, 2, 2), 'text': 'Te,', 'confidence': 31}
+                 
+ 
+ {'coords': (805, 99, 104, 26), 'text': 'WEST', 'confidence': 95}
+                 
+ 
+ {'coords': (570, 546, 43, 19), 'text': 'PO-', 'confidence': 92}
+                 
+ 
+ {'coords': (753, 99, 45, 25), 'text': 'BY', 'confidence': 95}
+                 
+ 
+ {'coords': (270, 241, 60, 34), 'text': 'Date', 'confidence': 95}
+                 
+ 
+ {'coords': (358, 1076, 126, 21), 'text': '7-04-2024', 'confidence': 32}
+                 
+ 
+ {'coords': (753, 98, 45, 26), 'text': 'BY', 'confidence': 96}
+                 
+ 
+ {'coords': (193, 446, 43, 18), 'text': 'San', 'confidence': 78}
+                 
+ 
+ {'coords': (704, 398, 46, 19), 'text': 'AB+', 'confidence': 85}
+                 
+ 
+ {'coords': (201, 289, 122, 32), 'text': 'O7-04-2024', 'confidence': 0}
+                 
+ 
+ {'coords': (619, 1075, 67, 21), 'text': '_we0s', 'confidence': 44}
+                 
+ 
+ {'coords': (315, 576, 294, 24), 'text': 'Corp.),Kolketa,W8,700078', 'confidence': 35}
+                 
+ 
+ {'coords': (816, 1073, 33, 21), 'text': 'NT', 'confidence': 96}
+                 
+ 
+ {'coords': (831, 249, 80, 24), 'text': '(TR);', 'confidence': 46}
+                 
+ 
+ {'coords': (499, 546, 63, 20), 'text': 'LANE', 'confidence': 93}
+                 
+ 
+ {'coords': (936, 40, 154, 26), 'text': 'LICENCE', 'confidence': 95}
+                 
+ 
+ {'coords': (630, 665, 120, 21), 'text': 'Hazardous', 'confidence': 96}
+                 
+ 
+ {'coords': (609, 95, 130, 28), 'text': 'ISSUED', 'confidence': 96}
+                 
+ 
+ {'coords': (398, 206, 51, 20), 'text': '2021', 'confidence': 96}
+                 
+ 
+ {'coords': (398, 207, 51, 19), 'text': '2021', 'confidence': 89}
+                 
+ 
+ {'coords': (199, 288, 125, 35), 'text': '07-04-2021', 'confidence': 67}
+                 
+ 
+ {'coords': (675, 1015, 25, 26), 'text': 'by', 'confidence': 97}
+                 
+ 
+ {'coords': (353, 396, 5, 16), 'text': ':', 'confidence': 35}
+                 
+ 
+ {'coords': (327, 958, 112, 29), 'text': 'Details', 'confidence': 89}
+                 
+ 
+ {'coords': (313, 576, 296, 24), 'text': 'Corp.),Kolkata,WB,700078', 'confidence': 88}
+                 
+ 
+ {'coords': (470, 242, 91, 35), 'text': 'Validity', 'confidence': 94}
+                 
+ 
+ {'coords': (442, 546, 49, 20), 'text': '2ND', 'confidence': 91}
+                 
+ 
+ {'coords': (777, 39, 146, 27), 'text': 'DRIVING', 'confidence': 95}
+                 
+ 
+ {'coords': (622, 546, 79, 20), 'text': 'HALTU', 'confidence': 88}
+                 
+ 
+ {'coords': (852, 562, 4, 6), 'text': ',', 'confidence': 88}
+                 
+ 
+ {'coords': (276, 576, 31, 24), 'text': '(M', 'confidence': 92}
+                 
+ 
+ {'coords': (758, 546, 85, 20), 'text': 'GARFA', 'confidence': 88}
+                 
+ 
+ {'coords': (1699, 431, 37, 44), 'text': 'First', 'confidence': 88}
+                 
+ 
+ {'coords': (276, 245, 50, 19), 'text': 'Dete', 'confidence': 86}
+                 
+ 
+ {'coords': (199, 241, 72, 34), 'text': 'issue', 'confidence': 86}
+                 
+ 
+ {'coords': (1396, 412, 86, 18), 'text': "Holder's", 'confidence': 79}
+                 
+ 
+ {'coords': (629, 716, 33, 20), 'text': 'Hill', 'confidence': 96}
+                 
+ 
+ {'coords': (134, 958, 33, 29), 'text': 'of', 'confidence': 95}
+                 
+ 
+ {'coords': (613, 242, 12, 33), 'text': ')', 'confidence': 64}
+                 
+ 
+ {'coords': (642, 251, 4, 16), 'text': ':', 'confidence': 83}
+                 
+ 
+ {'coords': (281, 545, 155, 22), 'text': 'PURBACHAL', 'confidence': 90}
+                 
+ 
+ {'coords': (568, 247, 46, 23), 'text': '{NT', 'confidence': 64}
+                 
+ 
+ {'coords': (613, 242, 12, 35), 'text': ')', 'confidence': 81}
+                 
+ 
+ {'coords': (46, 958, 76, 29), 'text': 'lass', 'confidence': 51}
+                 
+ 
+ {'coords': (360, 434, 16, 45), 'text': '/', 'confidence': 92}
+                 
+ 
+ {'coords': (245, 204, 36, 19), 'text': 'No.', 'confidence': 39}
+                 
+ 
+ {'coords': (283, 546, 152, 19), 'text': 'PURBACHAL', 'confidence': 91}
+                 
+ 
+ {'coords': (704, 398, 47, 19), 'text': 'AB+', 'confidence': 87}
+                 
+ 
+ {'coords': (629, 716, 33, 20), 'text': 'Hill', 'confidence': 92}
+                 
+ 
+ {'coords': (1247, 1010, 70, 24), 'text': 'Badge', 'confidence': 96}
+                 
+ 
+ {'coords': (777, 39, 146, 27), 'text': 'DRIVING', 'confidence': 96}
+                 
+ 
+ {'coords': (823, 765, 14, 41), 'text': '(', 'confidence': 92}
+                 
+ 
+ {'coords': (197, 345, 67, 19), 'text': 'Name', 'confidence': 92}
+                 
+ 
+ {'coords': (757, 665, 76, 24), 'text': 'validity', 'confidence': 77}
+                 
+ 
+ {'coords': (1503, 1056, 4, 42), 'text': '|', 'confidence': 57}
+                 
+ 
+ {'coords': (379, 341, 63, 36), 'text': 'DAS', 'confidence': 96}
+                 
+ 
+ {'coords': (302, 205, 5, 17), 'text': '2', 'confidence': 15}
+                 
+ 
+ {'coords': (422, 661, 52, 69), 'text': 'sal', 'confidence': 7}
+                 
+ 
+ {'coords': (45, 1010, 31, 33), 'text': 'Yo.', 'confidence': 68}
+                 
+ 
+ {'coords': (210, 246, 57, 18), 'text': 'Issue', 'confidence': 71}
+                 
+ 
+ {'coords': (247, 391, 33, 36), 'text': 'Of', 'confidence': 92}
+                 
+ 
+ {'coords': (194, 395, 144, 21), 'text': 'Date', 'confidence': 96}
+                 
+ 
+ {'coords': (345, 250, 6, 15), 'text': ':', 'confidence': 17}
+                 
+ 
+ {'coords': (1565, 1006, 69, 20), 'text': 'Issued', 'confidence': 96}
+                 
+ 
+ {'coords': (192, 445, 46, 21), 'text': 'Son', 'confidence': 92}
+                 
+ 
+ {'coords': (522, 36, 115, 26), 'text': 'INDIAN', 'confidence': 96}
+                 
+ 
+ {'coords': (941, 400, 67, 22), 'text': 'Organ', 'confidence': 96}
+                 
+ 
+ {'coords': (304, 341, 74, 36), 'text': 'ALOK', 'confidence': 96}
+                 
+ 
+ {'coords': (852, 562, 4, 6), 'text': ',', 'confidence': 87}
+                 
+ 
+ {'coords': (1710, 419, 14, 2), 'text': '|', 'confidence': 88}
+                
